@@ -4,4 +4,4 @@ Collection of presentations on different Cloud Service Providers and their servi
 ## Contents
 
 ## Contributors
-For the list of contributors check [CONTRIBUTORS.md]()
+For the list of contributors check [CONTRIBUTORS.md](https://github.com/Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/CONTRIBUTORS.md)
