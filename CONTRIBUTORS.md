@@ -2,7 +2,7 @@
 
 [A-Z 🔽]
 
-- **ARPAN SINGHA** - [Linode](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Linode%5BArpan_Singha%5D.pdf)
+- [**ARPAN SINGHA**](https://github.com/Teenspidey) - [Linode](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Linode%5BArpan_Singha%5D.pdf)
 
 - [**SAYANTAN CHAKRABORTY**](https://github.com/chakrabortysayantan699) - [Rackspace Technology](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Rackspace_technology%5BSayantan_Chakraborty%5D.pdf)
 
