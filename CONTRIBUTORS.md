@@ -2,10 +2,15 @@
 
 [A-Z 🔽]
 
-- [DigitalOcean](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/DigitalOcean%5BSoumya_Dey%5D.pdf) by [**SOUMYA DEY**](https://github.com/Soumya-Dey)
+- **ARPAN SINGHA** - [Linode](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Linode%5BArpan_Singha%5D.pdf)
 
-- [Oracle cloud](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Oracle_cloud%5BSuryabrata_Das%5D.pdf) by **SURYABRATA DAS**
+- [**SAYANTAN CHAKRABORTY**](https://github.com/chakrabortysayantan699) - [Rackspace technology](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Rackspace_technology%5BSayantan_Chakraborty%5D.pdf)
 
-- [Rackspace technology](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Rackspace_technology%5BSayantan_Chakraborty%5D.pdf) by [**SAYANTAN CHAKRABORTY**](https://github.com/chakrabortysayantan699)
+- **SOUMEN HALDER** - [IBM Cloud](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/IBM_cloud%5BSoumen_Halder%5D.pdf)
 
-- [Serverspace](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Serverspace%5BSupravat_Das%5D.pdf) by **SUPRAVAT DAS**
+- [**SOUMYA DEY**](https://github.com/Soumya-Dey) - [DigitalOcean](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/DigitalOcean%5BSoumya_Dey%5D.pdf)
+
+- **SUPRAVAT DAS** - [Serverspace](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Serverspace%5BSupravat_Das%5D.pdf)
+
+- **SURYABRATA DAS** - [Oracle cloud](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Oracle_cloud%5BSuryabrata_Das%5D.pdf)
+
