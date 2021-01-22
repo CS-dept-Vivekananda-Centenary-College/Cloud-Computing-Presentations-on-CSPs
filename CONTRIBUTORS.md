@@ -2,6 +2,10 @@
 
 [A-Z 🔽]
 
+- **ARKADIP MAITRA** - [Dell Technologies](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Dell_Technologies%5BArkadip_Maitra%5D.pdf)
+
+- **ARPAN ROY** - [Vmware](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Vmware%5BArpan_Roy%5D.pdf)
+
 - [**ARPAN SINGHA**](https://github.com/Teenspidey) - [Linode](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Linode%5BArpan_Singha%5D.pdf)
 
 - [**SAYANTAN CHAKRABORTY**](https://github.com/chakrabortysayantan699) - [Rackspace Technology](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Rackspace_technology%5BSayantan_Chakraborty%5D.pdf)
