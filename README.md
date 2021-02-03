@@ -1,5 +1,5 @@
 # Cloud-Computing-Presentations-on-CSPs
-Collection of presentations on different Cloud Service Providers and their services
+Collection of presentations on different Cloud Service Providers and their services.
 
 ## Contents
 | Topic 📑 | Author ✍ |  Website 🔗  |
@@ -16,4 +16,4 @@ Collection of presentations on different Cloud Service Providers and their servi
 |[Vultr](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Vultr%5BSoumya_Das%5D.pdf)|[Soumya Das](https://github.com/soumya-das67)|[vultr.com](https://www.vultr.com/)|
 
 ## Contributors
-For the list of contributors check [CONTRIBUTORS.md](https://github.com/Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/CONTRIBUTORS.md)
+For the list of contributors check [CONTRIBUTORS.md](https://github.com/Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/CONTRIBUTORS.md).
