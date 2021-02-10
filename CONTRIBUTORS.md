@@ -12,7 +12,7 @@
 
 - **DEBJIT CHAKRABORTY** - [Verizon Cloud](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Verizon_cloud%5BDebjit_Chakraborty%5D.pdf)
 
-- **RIJOY CHAKROBORTY** - [MassiveGrid](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/MassiveGrid%5BRejoy_Chakroborty%5D.pdf)
+- [**REJOY CHAKRABORTY**](https://github.com/rejoyc-cs) - [MassiveGrid](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/MassiveGrid%5BRejoy_Chakroborty%5D.pdf)
 
 - [**SAYANTAN CHAKRABORTY**](https://github.com/chakrabortysayantan699) - [Rackspace Technology](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Rackspace_technology%5BSayantan_Chakraborty%5D.pdf)
 
