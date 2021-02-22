@@ -18,6 +18,8 @@
 
 - **[PRITAM SAMUI](https://github.com/Pritamart)** - [Alibaba Cloud](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Alibaba_Cloud%5BPritam_Samui%5D.pdf)
 
+- **PURNENDU PAUL** - [WP Engine](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/WP_Engine%5BPurnendu_Paul%5D.pdf)
+
 - [**RAJ SEN**](https://github.com/raj21dart) - [ToggleBox](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/ToggleBox%5BRaj_Sen%5D%20.pdf)
 
 - [**REJOY CHAKRABORTY**](https://github.com/rejoyc-cs) - [MassiveGrid](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/MassiveGrid%5BRejoy_Chakroborty%5D.pdf)
