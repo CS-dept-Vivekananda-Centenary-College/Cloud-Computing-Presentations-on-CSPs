@@ -21,6 +21,7 @@ Collection of presentations on different Cloud Service Providers and their servi
 |[Verizon Cloud](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Verizon_cloud%5BDebjit_Chakraborty%5D.pdf)|Debjit Chakraborty|[verizon.com](https://www.verizon.com/solutions-and-services/verizon-cloud/)|
 |[Vmware](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Vmware%5BArpan_Roy%5D.pdf)|Arpan Roy|[vmware.com](https://www.vmware.com/)|
 |[Vultr](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/Vultr%5BSoumya_Das%5D.pdf)|[Soumya Das](https://github.com/soumya-das67)|[vultr.com](https://www.vultr.com/)|
+|[WP Engine](https://github.com/CS-dept-Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/WP_Engine%5BPurnendu_Paul%5D.pdf)|Purnendu Paul|[wpengine.com](https://wpengine.com/)|
 
 ## Contributors
 For the list of contributors check [CONTRIBUTORS.md](https://github.com/Vivekananda-Centenary-College/Cloud-Computing-Presentations-on-CSPs/blob/main/CONTRIBUTORS.md).
